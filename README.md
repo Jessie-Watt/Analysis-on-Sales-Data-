@@ -26,7 +26,7 @@ A sales dataset was provided by Coach Chinonso which I used to determine;
 # **Data Manipulation**
 I generating the total revenue using 'sum' function. The summation function was typed into the formula bar beginning with an equality sign, which was applied to the entire 'sales' column containing different price of products sold, this automatically generated the answer to the total revenue obtained for the products sold. The 'sum' function was also applied to the profit column to determine the total profit generated. The answers and the formula functions used can be viewed from the attached screenshot below.
 
-<img width="879" alt="Task 2 Solution" src="https://github.com/Jessie-Watt/Task-2/assets/140435577/80dbad12-c1b1-40b2-98af-0b2961ee89b5">
+<img width="924" alt="Task 2  Solution" src="https://github.com/Jessie-Watt/Task-2/assets/140435577/44cd50c6-2c1c-485c-9532-82b0dd90a392">
 
 
 The Average Revenue of the products was calculated using the 'average' function across the sales column to determine the average sales across the dataset provided, while the average units sold was also obtained from the applying the average formula across the 'units sold' column. This can also be seen in the attached above.
